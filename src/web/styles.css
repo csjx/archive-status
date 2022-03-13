@@ -1,0 +1,60 @@
+body {
+    margin: 2em;
+}
+
+
+/*
+  Override the cal-heatmap legend defaults to be more
+  presence/absence colors
+*/
+
+
+/* .cal-heatmap-container .q1 {
+    background-color: #EDEDED;
+    fill: #EDEDED
+}
+
+.cal-heatmap-container .q2 {
+    background-color: #63C361;
+    fill: #9cc069
+}
+
+.cal-heatmap-container .q3 {
+    background-color: #F9B034;
+    fill: #F9B034
+}
+
+.cal-heatmap-container .q4 {
+    background-color: #637939;
+    fill: #637939
+}
+
+.cal-heatmap-container .q5 {
+    background-color: #3b6427;
+    fill: #3b6427
+} */
+
+.cal-heatmap-container .q1 {
+    background-color: #EDEDED;
+    fill: #EDEDED
+}
+
+.cal-heatmap-container .q2 {
+    background-color: #D0E8C4;
+    fill: #D0E8C4
+}
+
+.cal-heatmap-container .q3 {
+    background-color: #ADD798;
+    fill: #ADD798
+}
+
+.cal-heatmap-container .q4 {
+    background-color: #8AC66C;
+    fill: #8AC66C
+}
+
+.cal-heatmap-container .q5 {
+    background-color: #68B045;
+    fill: #68B045
+}

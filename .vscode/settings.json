@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/usr/bin/python",
+    "liveServer.settings.root": "src/web"
+}

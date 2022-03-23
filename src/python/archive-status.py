@@ -38,7 +38,7 @@ class CalendarHeatmapReporter(object):
         """
 
         # Define the input and output directories
-        output_dir = "/var/www/realtime.pacioos.hawaii.edu/archive-status/"
+        output_dir = "/var/www/realtime.pacioos.hawaii.edu/archive-status/src/web/"
         data_path = Path(data_dir)
 
         # Define a data frame to filter the file data
